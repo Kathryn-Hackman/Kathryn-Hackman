@@ -14,4 +14,4 @@ OpenRoad, a mobile app in-development to help people plan roadtrips.
 #### - 📫 How to reach me: ...
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/kathryn-hackman/) I am always happy to meet new people.  
 #### - ⚡ Fun fact:
-I was once a certified Kayak instructor, and while that certification has recently expired, I still enjoy being in outdoor spaces whenever possible!
+I was once a certified Kayak instructor, and I still enjoy being in outdoor spaces whenever possible!
