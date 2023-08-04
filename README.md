@@ -1,5 +1,4 @@
 ## Hi, I'm Kathryn (she/her)! 👋 
-[![Kathryn's Github Stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Hackman&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Nice to meet you! A bit about me:
 
